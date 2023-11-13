@@ -1,3 +1,8 @@
+# This file has so many lines of code cause i have printed every hangam figure using loops for better understanding instead of those we can use by
+# creating list of the figures and access them as our need using indices and our score
+
+
+
 import random
 print("let's play hangman game...")
 print("you have only 6 lives so try to guess the word in 6 attempts!! good luck buddy>>>")
@@ -173,3 +178,5 @@ while(comp_score<=6):
         break
 print(f"The word is {que}")
 print("bye bye")
+
+
